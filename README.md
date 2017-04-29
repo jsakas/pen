@@ -1,3 +1,5 @@
+<p align="center"><img src="https://raw.githubusercontent.com/jsakas/pen/master/images/favicon.png" width="50" /></p>
+
 # pen
 
 I love using Codepen to hack around with frontend code, but sometimes my pens become too large for something I want to edit in a browser window. This repo is just a boilerplate for a project with ES6 (Babel) and Sass so I can hack around locally. 
@@ -35,4 +37,6 @@ ES6 is written in `babel/` and output to `js/`
 
 Sass is written in `sass/` and output to `css/`
 
-# Happy hacking! ^_^
+
+
+## Happy hacking! ^_^
