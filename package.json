@@ -1,0 +1,14 @@
+{
+  "name": "Pen",
+  "version": "1.0.0",
+  "description": "A webserver with ES6 and Sass",
+  "main": "index.html",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.24.1"
+  },
+  "scripts": {
+    "start": "babel -d js --watch & node-sass sass --output css --watch --recursive & python -m SimpleHTTPServer 3000"
+  },
+  "author": "Jon sakas",
+  "license": "ISC"
+}
